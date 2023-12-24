@@ -1,3 +1,4 @@
+<!-- Connetcion to the database -->
 <?php
 
 return [
