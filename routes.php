@@ -5,8 +5,8 @@
 return [
     '/' => 'controllers/index.php',
     '/website/about' => 'controllers/about.php',
-    '/website/notes' => 'controllers/notes.php',
-    '/website/note' => 'controllers/note.php',
+    '/website/notes' => 'controllers/notes/index.php',
+    '/website/note' => 'controllers/notes/show.php',
     '/website/contact' => 'controllers/contact.php',
-    '/website/notes/create' => 'controllers/note-create.php',
+    '/website/notes/create' => 'controllers/notes/create.php',
 ];
