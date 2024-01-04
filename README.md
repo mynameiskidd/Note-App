@@ -1,5 +1,5 @@
 # Note-App
-All the credit goes to Jeffrey Way, thanks for the tutorials!
+All the credit goes to Jeffrey Way, thanks for the tutorials! <br>
 *TODO:*
 
 <pre>   
