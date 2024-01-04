@@ -1,5 +1,14 @@
 # Note-App
+All the credit goes to Jeffrey Way, thanks for the tutorials!
+*TODO:*
 
+<pre>   
+1. Add user Authorization
+2. Edit CSS
+3. Add Callendar
+4. Optimize for mobile devises
+5. Add comments
+</pre>
 *Add the description later*
 
 
